@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mschf-dev/](https://github.com/mschf-dev/)
 
-- 📫 How to reach me **jamie.dobbs@mschf.dev**
-
 <h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
