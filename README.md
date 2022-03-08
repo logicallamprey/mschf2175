@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Jamie.</h1>
 <h3 align="center">I have over ten years of experience in linux servers, bespoke applications and pesky backends.</h3>
+<h3 align="left">About:</h3>
 
 - 🔭 I’m currently working on [iris](https://github.com/mschf-dev/iris)
 
@@ -9,14 +10,8 @@
 
 - 📫 How to reach me **jamie.dobbs@mschf.dev**
 
-<h3 align="left">Socials:</h3>
-<p align="left">
-<a href="https://twitter.com/mschfdev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mschfdev_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jamie-dobbs-443193234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamie-dobbs-443193234" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
-<table align="left">
+<table>
   <tr>
     <td align="center" width="96">
       <a href="#html5">
@@ -115,7 +110,6 @@
   </tr>
 </table>
 
-<p align="left">
 <h3 align="left">Github Stats:</h3>
 <h4 align="left">Stats</h4>
 <img src="https://github-readme-stats.vercel.app/api?username=mschf2175&count_private=true&show_icons=true&theme=tokyonight" /> 
@@ -128,3 +122,8 @@
 <h4 align="left">Trophies</h4>
 <img width=900 src="https://github-profile-trophy.vercel.app/?username=mschf2175&column=7&theme=tokyonight&no-frame=true"/>
 
+<h3 align="left">Socials:</h3>
+<p align="left">
+   <a href="https://twitter.com/mschfdev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mschfdev_" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/jamie-dobbs-443193234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamie-dobbs-443193234" height="30" width="40" /></a>
+</p>
